@@ -33,6 +33,31 @@
      "name": "Ngolo Kante", 
      "imgSrc": "https://res.cloudinary.com/chelsea-production/image/upload/c_fill,dpr_2.0,f_auto,fl_lossy,g_face,h_410,q_auto,w_350,z_1.0/v1/editorial/people/first-team/2019-20/portrait/portrait_1920_kante",
      "position": "Midfielder" 
+    },
+    { "shirtNumber": 8,
+     "name": "Ross Barkley", 
+     "imgSrc": "https://res.cloudinary.com/chelsea-production/image/upload/c_fill,dpr_2.0,f_auto,fl_lossy,g_face,h_410,q_auto,w_350,z_1.0/v1/editorial/people/first-team/2019-20/portrait/portrait_1920_barkley",
+     "position": "Midfielder" 
+    },
+    { "shirtNumber": 9,
+     "name": "Tammy Abraham", 
+     "imgSrc": "https://res.cloudinary.com/chelsea-production/image/upload/c_fill,dpr_2.0,f_auto,fl_lossy,g_auto,h_410,q_auto,w_350,z_1.0/v1/editorial/people/first-team/2019-20/portrait/portrait_1920_abraham",
+     "position": "Striker" 
+    },
+    { "shirtNumber": 10,
+     "name": "Willian", 
+     "imgSrc": "https://res.cloudinary.com/chelsea-production/image/upload/c_fill,dpr_2.0,f_auto,fl_lossy,g_face,h_410,q_auto,w_350,z_1.0/v1/editorial/people/first-team/2019-20/portrait/portrait_1920_willian",
+     "position": "Winger" 
+    },
+    { "shirtNumber": 11,
+     "name": "Pedro", 
+     "imgSrc": "https://res.cloudinary.com/chelsea-production/image/upload/c_fill,dpr_2.0,f_auto,fl_lossy,g_face,h_410,q_auto,w_350,z_1.0/v1/editorial/people/first-team/2019-20/portrait/portrait_1920_pedro",
+     "position": "Winger" 
+    },
+    { "shirtNumber": 12,
+     "name": "Ruben Loftus Cheek", 
+     "imgSrc": "https://res.cloudinary.com/chelsea-production/image/upload/c_fill,dpr_2.0,f_auto,fl_lossy,g_face,h_410,q_auto,w_350,z_1.0/v1/editorial/people/first-team/2019-20/portrait/portrait_1920_loftus-cheek",
+     "position": "Midfielder" 
     }
   ]
 }
