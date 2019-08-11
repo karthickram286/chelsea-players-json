@@ -1,10 +1,38 @@
 {
   "squad": [
-    { "shirtNumber": 1, "name": "Kepa Arrizabalaga", "position": "GoalKeeper" },
-    { "shirtNumber": 2, "name": "Antonio Rudiger", "position": "Defender" },
-    { "shirtNumber": 3, "name": "Marcos Alonso", "position": "Defender" },
-    { "shirtNumber": 4, "name": "Andreas Christensen", "position": "Defender" },
-    { "shirtNumber": 5, "name": "Jorginho", "position": "Midfielder" },
-    { "shirtNumber": 7, "name": "Ngolo Kante", "position": "Midfielder" }
+    { 
+      "shirtNumber": 1,
+      "name": "Kepa Arrizabalaga",
+      "img-src": "https://res.cloudinary.com/chelsea-production/image/upload/c_fill,dpr_2.0,f_auto,fl_lossy,g_auto,h_410,q_auto,w_350,z_1.0/v1/editorial/people/first-team/2019-20/portrait/portrait_1920_kepa",
+      "position": "GoalKeeper" 
+    },
+    { 
+      "shirtNumber": 2,
+      "name": "Antonio Rudiger",
+      "img-src": "https://res.cloudinary.com/chelsea-production/image/upload/c_fill,dpr_2.0,f_auto,fl_lossy,g_face,h_410,q_auto,w_350,z_1.0/v1/editorial/people/first-team/2019-20/portrait/portrait_1920_rudiger",
+      "position": "Defender" 
+    },
+    { 
+      "shirtNumber": 3,
+      "name": "Marcos Alonso",
+      "img-src": "https://res.cloudinary.com/chelsea-production/image/upload/c_fill,dpr_2.0,f_auto,fl_lossy,g_face,h_410,q_auto,w_350,z_1.0/v1/editorial/people/first-team/2019-20/portrait/portrait_1920_alonso",
+      "position": "Defender" 
+    },
+    { 
+      "shirtNumber": 4,
+      "name": "Andreas Christensen",
+      "img-src": "https://res.cloudinary.com/chelsea-production/image/upload/c_fill,dpr_2.0,f_auto,fl_lossy,g_face,h_410,q_auto,w_350,z_1.0/v1/editorial/people/first-team/2019-20/portrait/portrait_1920_christensen",
+      "position": "Defender" 
+    },
+    { "shirtNumber": 5,
+     "name": "Jorginho",
+     "img-src": "https://res.cloudinary.com/chelsea-production/image/upload/c_fill,dpr_2.0,f_auto,fl_lossy,g_faces,h_410,q_auto,w_350,z_1.0/v1/editorial/people/first-team/2019-20/portrait/portrait_1920_jorginho",
+     "position": "Midfielder" 
+    },
+    { "shirtNumber": 7,
+     "name": "Ngolo Kante", 
+     "img-src": "https://res.cloudinary.com/chelsea-production/image/upload/c_fill,dpr_2.0,f_auto,fl_lossy,g_face,h_410,q_auto,w_350,z_1.0/v1/editorial/people/first-team/2019-20/portrait/portrait_1920_kante",
+     "position": "Midfielder" 
+    }
   ]
 }
