@@ -1,0 +1,10 @@
+{
+  "squad": [
+    { "shirtNumber": 1, "name": "Kepa Arrizabalaga", "position": "GoalKeeper" },
+    { "shirtNumber": 2, "name": "Antonio Rudiger", "position": "Defender" },
+    { "shirtNumber": 3, "name": "Marcos Alonso", "position": "Defender" },
+    { "shirtNumber": 4, "name": "Andreas Christensen", "position": "Defender" },
+    { "shirtNumber": 5, "name": "Jorginho", "position": "Midfielder" },
+    { "shirtNumber": 7, "name": "Ngolo Kante", "position": "Midfielder" }
+  ]
+}
